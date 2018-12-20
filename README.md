@@ -2,14 +2,14 @@
 Nos 2 primeiros microservices foram utilizados python e MySql, dado criticidade dos dados, no segundo microservice poderia ainda ser aplicado uma tecnologia de cache por conta da extração de dados dos algoritmos de aprendizagem.
 No terceiro microservice foi adotado o MongoDB por conta da necessidade de ter uma acesso extremamente rápido, acabei usando java nesse caso por problemas que tive relacionado ao python com mongo.
 
-#Microservice 1
+# Microservice 1
 
-Tecnologias adotadas:
+## Tecnologias adotadas:
 - Python
 - Flask
 - MySql
 
-Dados armazenados:
+## Dados armazenados:
 User
 - id
 - login
@@ -24,14 +24,14 @@ Debt
 - value
 - date
 
-#Microservice 2
+# Microservice 2
 
-Tecnologias adotadas:
+## Tecnologias adotadas:
 - Python
 - Flask
 - MySql
 
-Dados armazenados:
+## Dados armazenados:
 
 Income
 - id
@@ -50,14 +50,14 @@ Property
 - description
 - value
 
-#Microservice 3
+# Microservice 3
 
-Tecnologias adotadas:
+## Tecnologias adotadas:
 - Java
 - Spring
 - MongoDB
 
-Dados armazenados:
+## Dados armazenados:
 
 FinancialMovement
 - id
