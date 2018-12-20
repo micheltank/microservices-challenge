@@ -26,6 +26,7 @@ Debt
 
 ## Como rodar:
 - Criar e executar o banco: docker-compose -f mysql.yaml up
+- Executar os scripts dentro de /scripts
 - Executar aplicação: venv\Scripts\python.exe api.py
 
 # Microservice 2
@@ -56,6 +57,7 @@ Property
 
 ## Como rodar:
 - Criar e executar o banco: docker-compose -f mysql.yaml up
+- Executar os scripts dentro de /scripts
 - Executar aplicação: venv\Scripts\python.exe api.py
 
 # Microservice 3
