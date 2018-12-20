@@ -24,6 +24,10 @@ Debt
 - value
 - date
 
+## Como rodar:
+1 - Criar e executar o banco: docker-compose -f mysql.yaml up
+2 - Executar aplicação: venv\Scripts\python.exe api.py
+
 # Microservice 2
 
 ## Tecnologias adotadas:
@@ -50,6 +54,10 @@ Property
 - description
 - value
 
+## Como rodar:
+1 - Criar e executar o banco: docker-compose -f mysql.yaml up
+2 - Executar aplicação: venv\Scripts\python.exe api.py
+
 # Microservice 3
 
 ## Tecnologias adotadas:
@@ -74,3 +82,8 @@ LastQuery
 - id
 - cpf
 - date
+
+
+## Como rodar:
+1 - Criar e executar o banco: docker-compose -f mongodb.yml up
+2 - Executar aplicação: mvn spring-boot:run
