@@ -1,0 +1,7 @@
+CREATE TABLE ms2.profile
+	(
+		id INT NOT NULL AUTO_INCREMENT,
+		birthday DATE NOT NULL,
+		address VARCHAR(100) NOT NULL,
+		PRIMARY KEY (id)
+	);
