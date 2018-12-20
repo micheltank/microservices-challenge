@@ -1,0 +1,6 @@
+version: '2'
+services:
+    bbintegration-mongodb:
+        image: mongo:3.4.8
+        ports:
+            - "27017:27017"
