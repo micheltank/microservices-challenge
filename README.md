@@ -1,5 +1,5 @@
 
-Nos 2 primeiros microservices foram utilizados python e MySql, dado criticidade dos dados, no segundo microservice poderia ainda ser aplicado uma tecnologia de cache por conta da extração de dados dos algoritmos de aprendizagem.
+Nos 2 primeiros microservices foram utilizados python e MySql, dado a criticidade dos dados, no segundo microservice poderia ainda ser aplicado uma tecnologia de cache por conta da extração de dados dos algoritmos de aprendizagem.
 No terceiro microservice foi adotado o MongoDB por conta da necessidade de ter uma acesso extremamente rápido, acabei usando java nesse caso por problemas que tive relacionado ao python com mongo.
 
 # Microservice 1
